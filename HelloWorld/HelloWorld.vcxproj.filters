@@ -1,0 +1,388 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Archivos de origen">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Archivos de encabezado">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Archivos de recursos">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Archivos de origen\Assigment1">
+      <UniqueIdentifier>{97229d84-3d0f-4870-a144-6a254489d8f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Assigment2">
+      <UniqueIdentifier>{06a5ff83-ee46-4317-aa7c-71aa863fffb4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Assigment3">
+      <UniqueIdentifier>{87fd3c69-ff27-491e-b6df-204f0ed9a7d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Experimentos">
+      <UniqueIdentifier>{4de1bee0-fc47-4c32-a082-7221c23b0f27}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Assigment4">
+      <UniqueIdentifier>{04d57ac3-5d64-4fb1-a73e-e04afb4ee2bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Assignment5">
+      <UniqueIdentifier>{0be4bd7f-0ac1-4c33-9d03-8148a43908fb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Examen01">
+      <UniqueIdentifier>{2368634a-dccf-478f-ba4b-014fd3094448}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Assignment6">
+      <UniqueIdentifier>{3c8ba3b4-a88a-47b2-b25b-8987d5d49f94}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Assignment7">
+      <UniqueIdentifier>{20dd56c5-013a-4621-8fef-0edf9651a3c8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Assignment8">
+      <UniqueIdentifier>{84245544-87a2-450c-811e-2e0679f725b6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Examen02">
+      <UniqueIdentifier>{503c452e-c5bd-4dc6-be57-941e03aef4a4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Assignment9">
+      <UniqueIdentifier>{357047cc-2200-4f65-8389-711677c716d5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Assingment10">
+      <UniqueIdentifier>{2dc0a42d-bd24-4f71-9f6d-e963c69a634b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\ExamenFinal">
+      <UniqueIdentifier>{d08a550c-b584-4d14-8d60-d5ecd4909d18}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="HelloWorld.c">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="Asiigment1Ejer2.c">
+      <Filter>Archivos de origen\Assigment1</Filter>
+    </ClCompile>
+    <ClCompile Include="Assigment1Ejer1.c">
+      <Filter>Archivos de origen\Assigment1</Filter>
+    </ClCompile>
+    <ClCompile Include="Assigment1Ejer3.c">
+      <Filter>Archivos de origen\Assigment1</Filter>
+    </ClCompile>
+    <ClCompile Include="Assigment1Ejer4.c">
+      <Filter>Archivos de origen\Assigment1</Filter>
+    </ClCompile>
+    <ClCompile Include="Assigment1Ejer5.c">
+      <Filter>Archivos de origen\Assigment1</Filter>
+    </ClCompile>
+    <ClCompile Include="Assigment1Ejer6.c">
+      <Filter>Archivos de origen\Assigment1</Filter>
+    </ClCompile>
+    <ClCompile Include="Assigment1Ejer7.c">
+      <Filter>Archivos de origen\Assigment1</Filter>
+    </ClCompile>
+    <ClCompile Include="Assigment1Ejer8.c">
+      <Filter>Archivos de origen\Assigment1</Filter>
+    </ClCompile>
+    <ClCompile Include="Assigment1Ejer9.cpp">
+      <Filter>Archivos de origen\Assigment1</Filter>
+    </ClCompile>
+    <ClCompile Include="hello.c">
+      <Filter>Archivos de origen\Assigment1</Filter>
+    </ClCompile>
+    <ClCompile Include="Assigment2Ejer1.c">
+      <Filter>Archivos de origen\Assigment2</Filter>
+    </ClCompile>
+    <ClCompile Include="Assigment2Ejer2.c">
+      <Filter>Archivos de origen\Assigment2</Filter>
+    </ClCompile>
+    <ClCompile Include="Assigment2Ejer3.c">
+      <Filter>Archivos de origen\Assigment2</Filter>
+    </ClCompile>
+    <ClCompile Include="Assigment2Ejer4.c">
+      <Filter>Archivos de origen\Assigment2</Filter>
+    </ClCompile>
+    <ClCompile Include="NoSimetric.c">
+      <Filter>Archivos de origen\Assigment2</Filter>
+    </ClCompile>
+    <ClCompile Include="Assigment2Ejer5.c">
+      <Filter>Archivos de origen\Assigment2</Filter>
+    </ClCompile>
+    <ClCompile Include="Assigment2Ejer6.c">
+      <Filter>Archivos de origen\Assigment2</Filter>
+    </ClCompile>
+    <ClCompile Include="Assigment2Ejer7.c">
+      <Filter>Archivos de origen\Assigment2</Filter>
+    </ClCompile>
+    <ClCompile Include="Assigment2Ejer8.c">
+      <Filter>Archivos de origen\Assigment2</Filter>
+    </ClCompile>
+    <ClCompile Include="Assigment2Ejer9.c">
+      <Filter>Archivos de origen\Assigment2</Filter>
+    </ClCompile>
+    <ClCompile Include="Assigment2Ejer10.c">
+      <Filter>Archivos de origen\Assigment2</Filter>
+    </ClCompile>
+    <ClCompile Include="Assigment2Ejer11.c">
+      <Filter>Archivos de origen\Assigment2</Filter>
+    </ClCompile>
+    <ClCompile Include="Assigment2Ejer12.c">
+      <Filter>Archivos de origen\Assigment2</Filter>
+    </ClCompile>
+    <ClCompile Include="Microsoft.c">
+      <Filter>Archivos de origen\Experimentos</Filter>
+    </ClCompile>
+    <ClCompile Include="Assigment4Ejer1.c">
+      <Filter>Archivos de origen\Assigment4</Filter>
+    </ClCompile>
+    <ClCompile Include="Assigment3Ejer1.c">
+      <Filter>Archivos de origen\Assigment3</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment3Ejer2.c">
+      <Filter>Archivos de origen\Assigment3</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment3Ejer3.c">
+      <Filter>Archivos de origen\Assigment3</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment3Ejer4.c">
+      <Filter>Archivos de origen\Assigment3</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment3Ejer5.c">
+      <Filter>Archivos de origen\Assigment3</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment3Ejer6.c">
+      <Filter>Archivos de origen\Assigment3</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment3Ejer7.c">
+      <Filter>Archivos de origen\Assigment3</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment3Ejer8.c">
+      <Filter>Archivos de origen\Assigment3</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment3Ejer9.c">
+      <Filter>Archivos de origen\Assigment3</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment3Ejer10.c">
+      <Filter>Archivos de origen\Assigment3</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment3Ejer11.c">
+      <Filter>Archivos de origen\Assigment3</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment3Ejer12.c">
+      <Filter>Archivos de origen\Assigment3</Filter>
+    </ClCompile>
+    <ClCompile Include="EjemploPruebaCorrecta.c">
+      <Filter>Archivos de origen\Experimentos</Filter>
+    </ClCompile>
+    <ClCompile Include="Assigment4Ejer2.c">
+      <Filter>Archivos de origen\Assigment4</Filter>
+    </ClCompile>
+    <ClCompile Include="Assigment4Ejer3.c">
+      <Filter>Archivos de origen\Assigment4</Filter>
+    </ClCompile>
+    <ClCompile Include="Assigment4Ejer4.c">
+      <Filter>Archivos de origen\Assigment4</Filter>
+    </ClCompile>
+    <ClCompile Include="Assigment4Ejer5.c">
+      <Filter>Archivos de origen\Assigment4</Filter>
+    </ClCompile>
+    <ClCompile Include="Assigment4Ejer6.c">
+      <Filter>Archivos de origen\Assigment4</Filter>
+    </ClCompile>
+    <ClCompile Include="Assigment4Ejer7.c">
+      <Filter>Archivos de origen\Assigment4</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment5Ejer1.c">
+      <Filter>Archivos de origen\Assignment5</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment5Ejer2.c">
+      <Filter>Archivos de origen\Assignment5</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment5Ejer3.c">
+      <Filter>Archivos de origen\Assignment5</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment5Ejer4.c">
+      <Filter>Archivos de origen\Assignment5</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment5Ejer5.c">
+      <Filter>Archivos de origen\Assignment5</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment4Ejer8.c">
+      <Filter>Archivos de origen\Assigment4</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment4Ejer9.c">
+      <Filter>Archivos de origen\Assigment4</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment4Ejer10.c">
+      <Filter>Archivos de origen\Assigment4</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment4Ejer11.c">
+      <Filter>Archivos de origen\Assigment4</Filter>
+    </ClCompile>
+    <ClCompile Include="Examen01.c">
+      <Filter>Archivos de origen\Examen01</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment5Ejer6.c">
+      <Filter>Archivos de origen\Assignment5</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment5Ejer7.c">
+      <Filter>Archivos de origen\Assignment5</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment5Ejer8.c">
+      <Filter>Archivos de origen\Assignment5</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment5Ejer9.c">
+      <Filter>Archivos de origen\Assignment5</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment6Ejer1.c">
+      <Filter>Archivos de origen\Assignment6</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment6Ejer12.c">
+      <Filter>Archivos de origen\Assignment6</Filter>
+    </ClCompile>
+    <ClCompile Include="fillingarrays.c">
+      <Filter>Archivos de origen\Experimentos</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment6Ejer10.c">
+      <Filter>Archivos de origen\Assignment6</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment6Ejer9.c">
+      <Filter>Archivos de origen\Assignment6</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment6Ejer2.c">
+      <Filter>Archivos de origen\Assignment6</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment6Ejer3.c">
+      <Filter>Archivos de origen\Assignment6</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment6Ejer4.c">
+      <Filter>Archivos de origen\Assignment6</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment6Ejer5.c">
+      <Filter>Archivos de origen\Assignment6</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment6Ejer6.c">
+      <Filter>Archivos de origen\Assignment6</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment6Ejer7.c">
+      <Filter>Archivos de origen\Assignment6</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment6Ejer8.c">
+      <Filter>Archivos de origen\Assignment6</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment6Ejer11.c">
+      <Filter>Archivos de origen\Assignment6</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment6Ejer13.c">
+      <Filter>Archivos de origen\Assignment6</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment7Ejer1.c">
+      <Filter>Archivos de origen\Assignment7</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment7Ejer2.c">
+      <Filter>Archivos de origen\Assignment7</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment7Ejer3.c">
+      <Filter>Archivos de origen\Assignment7</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment7Ejer4.c">
+      <Filter>Archivos de origen\Assignment7</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment7Ejer5.c">
+      <Filter>Archivos de origen\Assignment7</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment7Ejer6.c">
+      <Filter>Archivos de origen\Assignment7</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment7Ejer7.c">
+      <Filter>Archivos de origen\Assignment7</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment7Ejer8.c">
+      <Filter>Archivos de origen\Assignment7</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment7Ejer9.c">
+      <Filter>Archivos de origen\Assignment7</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment7Ejer10.c">
+      <Filter>Archivos de origen\Assignment7</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment7Ejer11.c">
+      <Filter>Archivos de origen\Assignment7</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment8Ejer1.c">
+      <Filter>Archivos de origen\Assignment8</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment8Ejer2.c">
+      <Filter>Archivos de origen\Assignment8</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment8Ejer3.c">
+      <Filter>Archivos de origen\Assignment8</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment8Ejer4.c">
+      <Filter>Archivos de origen\Assignment8</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment8Ejer5.c">
+      <Filter>Archivos de origen\Assignment8</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment8Ejer6.c">
+      <Filter>Archivos de origen\Assignment8</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment8Ejer7.c">
+      <Filter>Archivos de origen\Assignment8</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment8Ejer8.c">
+      <Filter>Archivos de origen\Assignment8</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment8Ejer9.c">
+      <Filter>Archivos de origen\Assignment8</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment8Ejer10.c">
+      <Filter>Archivos de origen\Assignment8</Filter>
+    </ClCompile>
+    <ClCompile Include="Examen02.c">
+      <Filter>Archivos de origen\Examen02</Filter>
+    </ClCompile>
+    <ClCompile Include="queues.c">
+      <Filter>Archivos de origen\Experimentos</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment9.c">
+      <Filter>Archivos de origen\Assignment9</Filter>
+    </ClCompile>
+    <ClCompile Include="pointersExample.c">
+      <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="testOpenMP.c">
+      <Filter>Archivos de origen\Experimentos</Filter>
+    </ClCompile>
+    <ClCompile Include="Assignment10.c">
+      <Filter>Archivos de origen\Assingment10</Filter>
+    </ClCompile>
+    <ClCompile Include="ExamenFinal.c">
+      <Filter>Archivos de origen\ExamenFinal</Filter>
+    </ClCompile>
+    <ClCompile Include="ExamenFinal2.c">
+      <Filter>Archivos de origen\ExamenFinal</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Exam01.h">
+      <Filter>Archivos de origen\Examen01</Filter>
+    </ClInclude>
+    <ClInclude Include="Prototypes.h">
+      <Filter>Archivos de origen\Examen02</Filter>
+    </ClInclude>
+    <ClInclude Include="Assignment9Prototypes.h">
+      <Filter>Archivos de origen\Assignment9</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\Downloads\Categorical\car.arff">
+      <Filter>Archivos de origen\Assingment10</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="..\..\..\Downloads\inputs.txt">
+      <Filter>Archivos de origen</Filter>
+    </Text>
+  </ItemGroup>
+</Project>

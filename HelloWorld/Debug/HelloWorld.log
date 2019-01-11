@@ -1,0 +1,8 @@
+﻿  ExamenFinal2.c
+c:\users\jerry\progra_avanzada\helloworld\helloworld\examenfinal2.c(98): warning C4477: 'printf' : la cadena de formato '%d' requiere un argumento de tipo 'int', pero el argumento variádico 1 tiene el tipo 'int *'
+c:\users\jerry\progra_avanzada\helloworld\helloworld\examenfinal2.c(77): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: vea la declaración de 'scanf'
+c:\users\jerry\progra_avanzada\helloworld\helloworld\examenfinal2.c(82): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1274): note: vea la declaración de 'scanf'
+c:\users\jerry\progra_avanzada\helloworld\helloworld\examenfinal2.c(71): warning C4716: 'freeQueue': debe devolver un valor
+  HelloWorld.vcxproj -> C:\Users\Jerry\progra_avanzada\HelloWorld\Debug\HelloWorld.exe
